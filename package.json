@@ -1,0 +1,9 @@
+{
+  "name": "danger-mods-api",
+  "version": "1.0.0",
+  "description": "API for Android JNI Login",
+  "main": "index.html",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
